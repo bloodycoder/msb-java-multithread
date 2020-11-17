@@ -1,8 +1,7 @@
-package com.picard;
+package com.picard.lecture2;
 
 import org.junit.Test;
 
-import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 class M{

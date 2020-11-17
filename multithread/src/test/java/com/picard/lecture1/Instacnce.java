@@ -1,4 +1,4 @@
-package com.picard;
+package com.picard.lecture1;
 
 public class Instacnce {
     /**

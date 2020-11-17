@@ -1,4 +1,4 @@
-package com.picard;
+package com.picard.lecture1;
 
 import org.junit.Test;
 import org.openjdk.jol.info.ClassLayout;

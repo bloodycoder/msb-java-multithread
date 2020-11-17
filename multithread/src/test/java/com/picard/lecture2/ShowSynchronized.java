@@ -1,4 +1,4 @@
-package com.picard;
+package com.picard.lecture2;
 
 public class ShowSynchronized {
     public static void main(String[] args) {
